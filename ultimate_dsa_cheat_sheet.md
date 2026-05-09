@@ -1,4 +1,4 @@
-# 🧠 Shramana's 260 Ultimate LeetCode Sheet
+# 🧠 Shramana's 260 Ultimate DSA Cheat Sheet
 
 > A curated list of **260 LeetCode problems** organised by topic — for consistent DSA prep and interview readiness.
 
